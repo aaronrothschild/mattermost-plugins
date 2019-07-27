@@ -2,15 +2,15 @@ alignment: is-left
 style: is-boxed
 size: is-large
 items:
-  - name: Tabs
-    link: /page-4/
+  - name: Overview
+    link: /overview/
     icon: fa-smile-wink
-  - name: Sidebar
+  - name: Installation
     link: /page-1/
     icon: fa-angle-double-right
-  - name: No Sidebar
+  - name: Testing
     link: /page-2/
     icon: fa-ellipsis-v
-  - name: Menubar
+  - name: Troubleshooting
     link: /page-3/
     icon: fa-bars
