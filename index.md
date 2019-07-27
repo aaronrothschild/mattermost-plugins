@@ -1,6 +1,6 @@
 ---
-title: Page with Tabs
-subtitle: Demo page with tabs
+title: {site.github.project_title}
+subtitle: {site.github.project_tagline}
 layout: page
 show_sidebar: false
 tabs: tabs
