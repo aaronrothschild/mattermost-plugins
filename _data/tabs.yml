@@ -6,11 +6,11 @@ items:
     link: /overview/
     icon: fa-smile-wink
   - name: Installation
-    link: /installation/
+    link: /installation.html
     icon: fa-angle-double-right
   - name: Testing
-    link: /testing/
+    link: /testing.html
     icon: fa-ellipsis-v
   - name: Troubleshooting
-    link: /troubleshooting/
+    link: /troubleshooting.html
     icon: fa-bars
