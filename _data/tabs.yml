@@ -1,16 +1,16 @@
 alignment: is-left
 style: is-boxed
-size: is-small
+size: is-medium
 items:
   - name: Overview
     link: /overview/
     icon: fa-smile-wink
   - name: Installation
-    link: /page-1/
+    link: /installation/
     icon: fa-angle-double-right
   - name: Testing
-    link: /page-2/
+    link: /testing/
     icon: fa-ellipsis-v
   - name: Troubleshooting
-    link: /page-3/
+    link: /troubleshooting/
     icon: fa-bars
