@@ -4,6 +4,8 @@ subtitle: {site.github.project_tagline}
 layout: page
 show_sidebar: false
 tabs: tabs
-menubar: example_menu
+callouts: home_callouts
 ---
-TEST!
+
+
+
