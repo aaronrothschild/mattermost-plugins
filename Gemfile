@@ -1,1 +1,1 @@
-gem "bulma-clean-theme"
+gem "bulma-clean-theme", ~> [VERSION]
